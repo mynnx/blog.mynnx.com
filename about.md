@@ -3,28 +3,27 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+`<div class="third-person">`
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Mark is:
 
-There are currently two themes built on Poole:
++ simultaneously a developer and product manager
++ a tinkerer and a hacker
++ good communicator, humble, kind, patient
++ good at costuming, makeup, and special effects
++ looking for a job ([here's his resume]({{ site.url }}/assets/resume.pdf))
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Mark believes:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
++ there are so many problems that can be solved by applying technology we already have available to us
++ even the simplest software can bring joy, create connections, solve real problems.
++ engineering for engineering's sake is valuable, but shipping is the most important part of software development
 
-## Setup
+Mark has built:
 
-Some fun facts about the setup of this project include:
++ "[What the Fuck Should I Name my Child?](http://whatthefuckshouldinamemychild.com)"
++ [SMS Story](http://github.com/mynnx/sms-story)
++ [Call Your Mom](http://github.com/mynnx/callyourmom)
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+`</div>`
